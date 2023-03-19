@@ -32,7 +32,7 @@ public class MrBean implements Serializable {
 		// Let's just give the class members some standard values
 		name = "Rowan Atkinson";
 		age = 60;
-		nationality = "British";
+		nationality = "India";
 		carBrand = "Leyland Mini";
 	}
 
